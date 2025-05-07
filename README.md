@@ -57,5 +57,5 @@ You can access the UI hosted on **Netlify**:
 
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/mycontact-app.git
+git clone https://github.com/devjasani79/mycontact-app.git
 cd mycontact-app
